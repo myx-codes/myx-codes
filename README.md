@@ -1,4 +1,4 @@
-Hi 👋 My name is Sreven
+Hi My name is Sreven
 =======================
 
 AI Researcher & Full Stack Developer
