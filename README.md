@@ -4,7 +4,9 @@ Hi 👋 My name is Sreven
 AI Researcher & Full Stack Developer
 ------------------------------------
 
-🚀 I'm an AI and Full Stack Developer with a strong interest in solving real-world problems through code. 💡 My work focuses on Deep Learning, Medical Imaging, and building scalable web applications. 🔍 I'm committed to continuous learning, clean code practices, and impactful collaborations.
+🚀 I'm an AI and Full Stack Developer with a strong interest in solving real-world problems through code. 
+💡 My work focuses on Deep Learning, Medical Imaging, and building scalable web applications. 
+🔍 I'm committed to continuous learning, clean code practices, and impactful collaborations.
 
 * 🌍  I'm based in Seoul, South Korea
 * ✉️  You can contact me at [muhammad95@dgu.ac.kr](mailto:muhammad95@dgu.ac.kr)
