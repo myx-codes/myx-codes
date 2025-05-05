@@ -33,8 +33,8 @@ AI Researcher & Full Stack Developer
 <a href="https://github.com/myx-codes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myx-codes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 📫 How to reach me:
-- 📧 Email: your_email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: muhammad95@dgu.ac.kr
+- 💼 LinkedIn:
 
 ---
 
