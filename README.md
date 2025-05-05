@@ -9,11 +9,16 @@ AI Researcher & Full Stack Developer
  🔍 I'm committed to continuous learning, clean code practices, and impactful collaborations.
 
 
-* 🌍  I'm based in Seoul, South Korea
-* ✉️  You can contact me at [muhammad95@dgu.ac.kr](mailto:muhammad95@dgu.ac.kr)
-* 🧠  I'm learning Deep Learning for Medical Imaging Full Stack Web Development (MERN stack)
-* 🤝  I'm open to collaborating on AI-powered healthcare solutions, Web-based medical tools, Open source projects related to imaging or frontend/backend systems.
-* ⚡  Let’s build something impactful together — collaboration and growth are my top priorities!
+* 🌍  Based in **Seoul, South Korea**
+* ✉️  Reach me at [muhammad95@dgu.ac.kr](mailto:muhammad95@dgu.ac.kr)
+* 🧠  Currently learning:
+   - Deep Learning for Medical Imaging  
+   - Full Stack Web Development (MERN stack)
+* 🤝  Open to collaborating on:
+   - AI-powered healthcare solutions  
+   - Web-based medical tools  
+   - Open source projects (frontend/backend or imaging)
+* ⚡  Always excited to build impactful solutions — collaboration and growth are my top priorities!
 
 ### Skills
 
