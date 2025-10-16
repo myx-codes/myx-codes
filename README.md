@@ -2,7 +2,7 @@
 <h3 align="center">AI Researcher & Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="mailto:muhammad95@dgu.ac.kr"><img src="https://img.shields.io/badge/Email-kholbajonovm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:muhammad95@dgu.ac.kr"><img src="https://img.shields.io/badge/Email-muhammad95@dgu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/myx-codes"><img src="https://img.shields.io/badge/GitHub-myxcodes-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/mukhammadyusuf-kholbajonovov/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
