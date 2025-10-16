@@ -82,14 +82,14 @@
 
 ### 📫 Contact Me
 
-📧 [kholbajonovm@gmail.com](mailto:kholbajonovm@gmail.com)  
+📧 [muhammad95@dgu.ac.kr](mailto:muhammad95@dgu.ac.kr)  
 🏫 Dongguk University, Korea  
 🌐 [github.com/myx-codes](https://github.com/myx-codes)
 
 ---
 
 > “AI is not just algorithms — it's insight into reality.”  
-> — *Mukhammadyusuf (Steven)*
+> — *Steven*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=myx-codes&label=Profile%20Views&color=58a6ff&style=flat-square" alt="profile views" />
