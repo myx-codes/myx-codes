@@ -1,10 +1,10 @@
-<!-- 🧠 PROFILE BANNER -->
+<!-- BANNER -->
 <p align="center">
   <img src="assets/banner_ct_neuro_dark.png" alt="AI + CT Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Mukhammadyusuf (Steven)</span></h1>
-<h3 align="center">🧬 AI Researcher & Full-Stack Developer</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Steven</span></h1>
+<h3 align="center">🧠 AI Researcher & Full-Stack Developer</h3>
 
 <p align="center">
   <a href="mailto:kholbajonovm@gmail.com"><img src="https://img.shields.io/badge/Email-kholbajonovm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -14,43 +14,60 @@
 
 ---
 
-## 🧬 About Me
+### 🛠 Tech Stack
 
-🎓 Graduate Researcher at **Dongguk University** (Seoul, South Korea)  
-🩻 Specialized in **Medical Imaging AI** and **Deep Learning for Chest CT Segmentation**  
-💻 Also developing full-stack web platforms for data management and automation  
-🌍 Passionate about connecting **AI research** and **software engineering** to solve real-world problems  
-
----
-
-## 🔬 Research Focus
-
-- **Project:** Enhanced Attention U-Net with **SCJAG (Spatial-Channel Joint Attention Gate)**
-- **Goal:** Automatic thoracic muscle segmentation for quantitative COPD analysis  
-- **Methods:** Multi-channel HU inputs + 3D context (Z-context) + Focal Tversky Loss  
-- **Output:** Dice / IoU metrics, HU-density, CSA, volume, and visual overlays  
-- **Tools:** PyTorch • MONAI • NumPy • nibabel • Matplotlib • Pandas  
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
 
-## 🍽️ Burak — Restaurant Network Platform
+### 🔬 Research & Projects
 
-A full-stack web system for managing a multi-branch restaurant chain.
+- **Enhanced Attention U-Net with SCJAG** — segmentation model for CT scans  
+- **CT Metrics Analyzer** — compute HU-density, volume, thickness stats
+- **Burak App** — A full-stack web system for managing a multi-branch restaurant chain.
+- **REJA Planner App** — full-stack productivity tool  
 
-**Core Features**
-- 🍴 Multi-branch dashboards  
-- 🧾 Menu, category & item CRUD  
-- 💳 Order & table management with Axios  
-- 👥 Role-based users (admin, manager, cashier)  
-- 🔐 Secure Auth (bcrypt, express-session, validation)  
-- 🐳 DevOps ready: `.env`, logs, error handler, optional Docker/Nginx  
+---
 
-**Stack**
-`Node.js` • `Express` • `MongoDB Atlas` • `Mongoose` • `EJS` • `Axios` • `Bootstrap`  
+### 📈 GitHub Stats
 
-**Quick Start**
-```bash
-cp .env.example .env
-npm i
-npm run dev
-# visit http://localhost:3003
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=myx-codes&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=myx-codes&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=myx-codes&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🌱 Currently Exploring
+
+- Multi-GPU 3D training & optimization  
+- Cloud AI deployment & microservices  
+- Clinical correlation in pulmonary function  
+
+---
+
+### 📫 Contact Me
+
+📧 [kholbajonovm@gmail.com](mailto:kholbajonovm@gmail.com)  
+🏫 Dongguk University, Korea  
+🌐 [github.com/myx-codes](https://github.com/myx-codes)
+
+---
+
+> “AI is not just algorithms — it's insight into reality.”  
+> — *Mukhammadyusuf (Steven)*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=myx-codes&label=Profile%20Views&color=58a6ff&style=flat-square" alt="profile views" />
+</p>
