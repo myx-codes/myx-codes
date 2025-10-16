@@ -1,8 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="assets/banner_ct_neuro_dark.png" alt="AI + CT Banner" width="100%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Steven</span></h1>
 <h3 align="center">🧠 AI Researcher & Full-Stack Developer</h3>
 
